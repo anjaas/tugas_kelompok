@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Progate</title>
+    <link rel="stylesheet" href="stylesheet.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div class="header-left">
+          <img class="logo" src="https://prog-8.com/images/html/advanced/main_logo.png">
+        </div>
+        <div class="header-right">
+          <a href="#" class="login">Log in</a>
+        </div>
+      </div>
+    </header>
+    <div class="top-wrapper">
+      <div class="container">
+        <h1>PROFIL KELOMPOK</h1>
+        <h1>TEAM XX PROGRATE</h1>
+        <p>Kami adalah peserta Bootcamp Prograte</p>
+        <p>Achmad Bias Firmansyah</p>
+        <p>Delvino Ardy Pradana</p>
+        <p>Heldin Irwansah</p>
+        <p>Muhammad Kurnia Haryanto</p>
+        <p>Muhammad Wazid Khusni</p>
+        </div>
+        </div>
+    <div class="profil-wrapper">
+      <div class="container">
+        <div class="heading">
+          <h2>Cari tau profil mereka!</h2>
+        </div>
+        <div class="profils">
+          <div class="profil">
+            <div class="profil-icon">
+              <img src="https://prog-8.com/images/html/advanced/html.png">
+               <p>Achmad Bias Firmansyah</p>
+               </div>
+               <p class="txt-contents">Jago HTML dan CSS</p>
+          </div>
+        </div>
+        <div class="profils">
+          <div class="profil">
+            <div class="profil-icon">
+              <img src="https://prog-8.com/images/html/advanced/html.png">
+               <p>Delvino Ardy Pradana</p>
+               </div>
+               <p class="txt-contents">Jago HTML dan CSS</p>
+          </div>
+        </div>
+        <div class="profils">
+          <div class="profil">
+            <div class="profil-icon">
+              <img src="https://prog-8.com/images/html/advanced/html.png">
+               <p>Heldin Irwansah</p>
+               </div>
+               <p class="txt-contents">Jago HTML dan CSS</p>
+          </div>
+        </div>
+        <div class="profils">
+          <div class="profil">
+            <div class="profil-icon">
+              <img src="https://prog-8.com/images/html/advanced/html.png">
+               <p>Muhammad Kurnia Haryanto</p>
+               </div>
+               <p class="txt-contents">Jago HTML dan CSS</p>
+          </div>
+        </div>
+        <div class="profils">
+          <div class="profil">
+            <div class="profil-icon">
+              <img src="https://prog-8.com/images/html/advanced/html.png">
+               <p>Muhammad Wazid Khusni</p>
+               </div>
+               <p class="txt-contents">Jago HTML dan CSS</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="message-wrapper">
+      <div class="container">
+        <div class="heading">
+          <h2>Apakah Anda siap untuk menjadi programer yang lebih handal?</h2>
+          <h3>Ayo belajar coding, ayo belajar menjadi lebih kreatif!</h3>
+        </div><span class="btn message">Mulai Belajar</span>
+      </div>
+    </div>
+    <footer>
+      <div class="container">
+        <img src="https://prog-8.com/images/html/advanced/footer_logo.png">
+        <p>Learn to code, learn to be creative.</p>
+        </div>
+    </footer>
+  </body>
+</html>
